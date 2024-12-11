@@ -1,0 +1,53 @@
+# STM32CubeIDE project files
+*.launch
+*.ld
+*.bin
+*.elf
+*.map
+*.hex
+*.lst
+*.o
+*.a
+*.srec
+*.d
+*.dep
+
+# Text files
+*.txt
+
+# Waveform audio files
+*.wav
+
+# Debug-related files
+*.debug
+*.log
+
+# Generated files
+*.i
+*.ii
+*.out
+*.bak
+*.tmp
+
+# Build and output directories
+/Debug/
+/Release/
+/build/
+/output/
+
+# CubeMX configuration backup files
+*.bak
+*.bkp
+
+# Auto-generated STM32CubeMX files
+*.ioc
+
+# macOS-specific files (if applicable)
+.DS_Store
+
+.venv
+
+.cproject
+.mxproject
+.project
+.settings/
